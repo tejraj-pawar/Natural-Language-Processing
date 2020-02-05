@@ -3,7 +3,7 @@
 
 # Format of Dataset
 * The files contain one message per line. Each line is composed by two columns: one with label (ham or spam) and other with the raw text. Here are some examples:
-* Example:
+
 ham   What you doing?how are you?
 sham   Ok lar... Joking wif u oni...
 ham   dun say so early hor... U c already then say...
